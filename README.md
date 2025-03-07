@@ -15,6 +15,10 @@ The agent must navigate the maze while:
 
 By training with Deep Learning, the agent learns **optimal behaviors** through reinforcement rather than relying on hardcoded rules.
 
+##Link to video demonstration
+- [Video]([https://github.com/AlbertoMorales24](https://drive.google.com/file/d/1dhmWJkM72wTe-DKnNEf0px-MPuQaXAnF/view?usp=sharing))
+
+
 ## Environment Setup
 ### Prerequisites
 
@@ -44,6 +48,7 @@ Once trained, you can test the AI by running:
 python src/mainMenu.py
 ```
 The trained agent will control Pac-Man and attempt to survive while maximizing points.
+
 
 ## Team Members
 - [Alberto Morales](https://github.com/AlbertoMorales24)
