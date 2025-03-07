@@ -58,11 +58,6 @@ The state includes:
 - **-100** for getting caught by a ghost
 - **-1 per step** (to encourage efficiency)
 
-## Future Improvements
-- Implementing **CNNs** to process raw game visuals instead of manually defined states.
-- Fine-tuning reward functions for better agent performance.
-- Optimizing hyperparameters for faster and more stable learning.
-
 ## Contributors
 - [Alberto Morales](https://github.com/AlbertoMorales24)
 - [Edgar Velazquez](https://github.com/WeroVlz)
