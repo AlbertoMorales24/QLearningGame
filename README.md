@@ -45,7 +45,7 @@ python src/mainMenu.py
 ```
 The trained agent will control Pac-Man and attempt to survive while maximizing points.
 
-## Contributors
+## Team Members
 - [Alberto Morales](https://github.com/AlbertoMorales24)
 - [Edgar Velazquez](https://github.com/WeroVlz)
 - [Jorge Vargas](https://github.com/Jorgepro89)
