@@ -17,9 +17,12 @@ By training with Deep Learning, the agent learns **optimal behaviors** through r
 
 ## Environment Setup
 ### Prerequisites
-Ensure you have **Python 3.8+** installed along with the following dependencies:
+
+For this project we used **Python 3.12.3** and **Pygame 2.6.1**
+
+Ensure you have installed the following dependencies:
 ```sh
-pip install torch numpy pygame matplotlib
+pip install torch numpy matplotlib
 ```
 
 ### Clone Repository
@@ -38,7 +41,7 @@ This will initialize the neural network and start the training process, allowing
 ## Running the Game
 Once trained, you can test the AI by running:
 ```sh
-python src/play.py
+python src/mainMenu.py
 ```
 The trained agent will control Pac-Man and attempt to survive while maximizing points.
 
