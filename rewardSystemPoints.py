@@ -1,0 +1,20 @@
+rewards = {
+    'point': 1,
+    'greenPoint': 3,
+    'specialPoint': 2,
+    'eatEnemy': 8,
+    'eatLastPoint': 5,
+    'moveCloserEnemy': -0.8,
+    'moveFurtherEnemy': 0.8,
+    'moveCloserSpecialEnemy': 1,
+    'moveFurtherSpecialEnemy': -0.5,
+    'moveCloserPoint': 0.6,
+    'moveCloserGreenPoint': 0.8,
+    'moveCloserSpecialPoint': 0.9,
+    'moveEmptySpace': -0.15,
+    'moveWall': -1,
+    'stepCost': -0.01,
+    'safeZoneEnemyClose': 0.9,
+    'consecutivePointsCollected': 0.5,
+    'loseLife': -15
+}
