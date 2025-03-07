@@ -45,28 +45,8 @@ python src/mainMenu.py
 ```
 The trained agent will control Pac-Man and attempt to survive while maximizing points.
 
-## Rewards and States
-### **State Representation**
-The state includes:
-- Pac-Man’s **position** (x, y)
-- **Ghosts’ positions** and their states (chase/scatter/vulnerable)
-- **Pellet locations** (normal and power pellets)
-- **Maze layout** and potential paths
-
-### **Reward System**
-- **+1** for eating a normal pellet
-- **+5** for eating a power pellet
-- **+10** for eating a ghost (when vulnerable)
-- **+50** for completing a level
-- **-100** for getting caught by a ghost
-- **-1 per step** (to encourage efficiency)
-
 ## Contributors
 - [Alberto Morales](https://github.com/AlbertoMorales24)
 - [Edgar Velazquez](https://github.com/WeroVlz)
 - [Jorge Vargas](https://github.com/Jorgepro89)
-- [Ivan Andrade]()
-
-## License
-This project is licensed under the **MIT License**.
-
+- [Ivan Andrade](https://github.com/Ivan9888)
